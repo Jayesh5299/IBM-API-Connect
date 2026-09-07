@@ -132,11 +132,11 @@ apic login --server xxxx --realm provider/default-idp-2 --username xxxx--passwor
 
 Example console output:
 
-============================================================
+====================================
  IBM API Connect - API Download
  Server : apimanager.demo.com
  Org    : demo-org
-============================================================
+=====================================
 
 ------------------------------------------------------------
 Processing Catalog: catalog1
@@ -144,17 +144,17 @@ Processing Catalog: catalog1
 
 Downloading: api1:1.0.0
 SUCCESS: api2:1.0.0
-------------------------------------------------------------
+--------------------------------
 Processing Catalog: catalog2
-------------------------------------------------------------
+---------------------------------
 
 Downloading: api1:1.0.0
 SUCCESS: api2:1.0.0
 
-============================================================
+====================================
 Download completed.
 Output directory: API_Inventory
-============================================================
+=====================================
 
 
 # API Download Output
